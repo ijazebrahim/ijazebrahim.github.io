@@ -1,0 +1,30 @@
+[
+  {
+    "weekday": "Monday",
+    "distance": 127,
+  },
+  {
+    "weekday": "Tuesday",
+    "distance": 59,
+  },
+  {
+    "weekday": "Wednesday",
+    "distance": 109,
+  },
+  {
+    "weekday": "Thursday",
+    "distance": 133,
+  },
+  {
+    "weekday": "Friday",
+    "distance": 81,
+  },
+  {
+    "weekday": "Saturday",
+    "distance": 66,
+  },
+  {
+    "weekday": "Sunday",
+    "distance": 80,
+  },
+]
