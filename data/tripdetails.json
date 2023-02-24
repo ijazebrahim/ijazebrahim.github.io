@@ -11,6 +11,7 @@
 					"endLocation": "456 Elm St.",
 					"fuelConsumption": 10.5,
 					"tripDuration": 60
+				        "tripDistance": 21
 				},
 				{
 					"startTime": "2023-01-01T13:00:00Z",
@@ -19,6 +20,7 @@
 					"endLocation": "1011 Pine St.",
 					"fuelConsumption": 8.2,
 					"tripDuration": 60
+					"tripDistance": 23
 				},
 				{
 					"startTime": "2023-01-01T17:00:00Z",
@@ -27,6 +29,7 @@
 					"endLocation": "1415 Cedar St.",
 					"fuelConsumption": 9.8,
 					"tripDuration": 60
+					"tripDistance": 28
 				}
 			]
 		},
@@ -42,6 +45,7 @@
 					"endLocation": "123 Main St.",
 					"fuelConsumption": 6.5,
 					"tripDuration": 60
+				        "tripDistance": 28
 				},
 				{
 					"startTime": "2023-01-02T14:00:00Z",
@@ -50,6 +54,7 @@
 					"endLocation": "789 Oak St.",
 					"fuelConsumption": 7.2,
 					"tripDuration": 60
+					"tripDistance": 14
 				}
 			]
 		}
