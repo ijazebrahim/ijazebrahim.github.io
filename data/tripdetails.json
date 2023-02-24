@@ -10,7 +10,7 @@
 					"startLocation": "123 Main St.",
 					"endLocation": "456 Elm St.",
 					"fuelConsumption": 10.5,
-					"tripDuration": 60
+					"tripDuration": 60,
 				        "tripDistance": 21
 				},
 				{
@@ -19,7 +19,7 @@
 					"startLocation": "789 Oak St.",
 					"endLocation": "1011 Pine St.",
 					"fuelConsumption": 8.2,
-					"tripDuration": 60
+					"tripDuration": 60,
 					"tripDistance": 23
 				},
 				{
@@ -28,7 +28,7 @@
 					"startLocation": "1213 Maple St.",
 					"endLocation": "1415 Cedar St.",
 					"fuelConsumption": 9.8,
-					"tripDuration": 60
+					"tripDuration": 60,
 					"tripDistance": 28
 				}
 			]
@@ -44,8 +44,8 @@
 					"startLocation": "567 Pine St.",
 					"endLocation": "123 Main St.",
 					"fuelConsumption": 6.5,
+                    "tripDistance": 21,
 					"tripDuration": 60
-				        "tripDistance": 28
 				},
 				{
 					"startTime": "2023-01-02T14:00:00Z",
@@ -53,7 +53,7 @@
 					"startLocation": "456 Elm St.",
 					"endLocation": "789 Oak St.",
 					"fuelConsumption": 7.2,
-					"tripDuration": 60
+					"tripDuration": 60,
 					"tripDistance": 14
 				}
 			]
