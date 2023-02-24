@@ -11,7 +11,7 @@
 					"endLocation": "456 Elm St.",
 					"fuelConsumption": 10.5,
 					"tripDuration": 60,
-				        "tripDistance": 21
+				        "tripDistance": 29
 				},
 				{
 					"startTime": "2023-01-01T13:00:00Z",
