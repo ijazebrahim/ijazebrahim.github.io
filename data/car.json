@@ -44,22 +44,5 @@
         "_etag": "\"5b006580-0000-1600-0000-63d89e480000\"",
         "_attachments": "attachments/",
         "_ts": 1675140680
-    },
-    {
-        "carId": "AD34560YPLOP",
-        "manufacturer": "Audi",
-        "model": "A4",
-        "year": "2020",
-        "type": "Diesel",
-        "price": "0 euro/km",
-        "speed": "Km/hr",
-        "gasUnits": "e3ea4527-db8f-481a-b9f4-fca05ae31e9a",
-        "userId": "e3ea4527-db8f-481a-b9f4-fca05ae31e9a",
-        "id": "f0003fa7-9ea3-2018-1d52-c91950c40f33",
-        "_rid": "CUMIAM96JzoeAAAAAAAAAA==",
-        "_self": "dbs/CUMIAA==/colls/CUMIAM96Jzo=/docs/CUMIAM96JzoeAAAAAAAAAA==/",
-        "_etag": "\"0500664a-0000-1600-0000-6401d5a00000\"",
-        "_attachments": "attachments/",
-        "_ts": 1677841824
     }
 ]
