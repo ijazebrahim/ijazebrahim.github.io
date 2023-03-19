@@ -4,7 +4,7 @@
 			"userId": 1234,
 			"carId": 5678,
 			"totalTrips": 3,
-			"tripDetails": [{
+			"tripDetail": [{
 					"startTime": "2023-01-01T10:00:00Z",
 					"endTime": "2023-01-01T11:00:00Z",
 					"startLocation": "123 Main St.",
@@ -38,7 +38,7 @@
 			"userId": 1234,
 			"carId": 5678,
 			"totalTrips": 2,
-			"tripDetails": [{
+			"tripDetail": [{
 					"startTime": "2023-01-02T08:00:00Z",
 					"endTime": "2023-01-02T09:00:00Z",
 					"startLocation": "567 Pine St.",
@@ -63,7 +63,7 @@
 			"userId": 1234,
 			"carId": 5678,
 			"totalTrips": 2,
-			"tripDetails": [{
+			"tripDetail": [{
 					"startTime": "2023-01-03T08:00:00Z",
 					"endTime": "2023-01-03T09:00:00Z",
 					"startLocation": "567 Pine St.",
@@ -88,7 +88,7 @@
 			"userId": 1234,
 			"carId": 5678,
 			"totalTrips": 2,
-			"tripDetails": [{
+			"tripDetail": [{
 					"startTime": "2023-01-04T08:00:00Z",
 					"endTime": "2023-01-04T09:00:00Z",
 					"startLocation": "567 Pine St.",
@@ -113,7 +113,7 @@
 			"userId": 1234,
 			"carId": 5678,
 			"totalTrips": 2,
-			"tripDetails": [{
+			"tripDetail": [{
 					"startTime": "2023-01-05T08:00:00Z",
 					"endTime": "2023-01-05T09:00:00Z",
 					"startLocation": "567 Pine St.",
@@ -138,7 +138,7 @@
 			"userId": 1234,
 			"carId": 5678,
 			"totalTrips": 2,
-			"tripDetails": [{
+			"tripDetail": [{
 					"startTime": "2023-01-06T08:00:00Z",
 					"endTime": "2023-01-06T09:00:00Z",
 					"startLocation": "567 Pine St.",
@@ -163,7 +163,7 @@
 			"userId": 1234,
 			"carId": 5678,
 			"totalTrips": 2,
-			"tripDetails": [{
+			"tripDetail": [{
 					"startTime": "2023-01-07T08:00:00Z",
 					"endTime": "2023-01-07T09:00:00Z",
 					"startLocation": "567 Pine St.",
@@ -188,7 +188,7 @@
 			"userId": 1234,
 			"carId": 5678,
 			"totalTrips": 2,
-			"tripDetails": [{
+			"tripDetail": [{
 					"startTime": "2023-01-08T08:00:00Z",
 					"endTime": "2023-01-08T09:00:00Z",
 					"startLocation": "567 Pine St.",
@@ -213,7 +213,7 @@
 			"userId": 1234,
 			"carId": 5678,
 			"totalTrips": 2,
-			"tripDetails": [{
+			"tripDetail": [{
 					"startTime": "2023-02-01T08:00:00Z",
 					"endTime": "2023-02-01T09:00:00Z",
 					"startLocation": "567 Pine St.",
@@ -238,7 +238,7 @@
 			"userId": 1234,
 			"carId": 5678,
 			"totalTrips": 2,
-			"tripDetails": [{
+			"tripDetail": [{
 					"startTime": "2023-02-02T08:00:00Z",
 					"endTime": "2023-02-02T09:00:00Z",
 					"startLocation": "567 Pine St.",
@@ -263,7 +263,7 @@
 			"userId": 1234,
 			"carId": 5678,
 			"totalTrips": 2,
-			"tripDetails": [{
+			"tripDetail": [{
 					"startTime": "2023-02-03T08:00:00Z",
 					"endTime": "2023-02-03T09:00:00Z",
 					"startLocation": "567 Pine St.",
@@ -288,7 +288,7 @@
 			"userId": 1234,
 			"carId": 5678,
 			"totalTrips": 2,
-			"tripDetails": [{
+			"tripDetail": [{
 					"startTime": "2023-02-04T08:00:00Z",
 					"endTime": "2023-02-04T09:00:00Z",
 					"startLocation": "567 Pine St.",
