@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap");
+
+html,
+body,
+#root {
+  /* height: 100%; */
+  width: 100%;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.content {
+  transition: margin-left 0.3s;
+}
+
+.ct-collapsed {
+  width: 100%;
+  margin-left: 80px;
+}
+
+.ct-expanded {
+  width: 100%;
+  margin-left: 260px;
+}
+
+.app {
+  display: flex;
+  position: relative;
+}
+
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #e0e0e0;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #25222F;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/* RSuite Date Picker Theme Override */
+
+.rs-picker-menu {
+
+  background-color: #25222F;
+
+}
+
+.rs-calendar-table-cell-selected .rs-calendar-table-cell-content {
+
+  background-color: #DA291C;
+
+}
+
+.rs-btn-primary {
+
+  background-color: #DA291C;
+
+}
+
+.rs-btn-link {
+  color: #ffffff;
+}
+
+.rs-calendar-month-dropdown-row {
+  background-color: #25222F;
+}
+
+.rs-calendar-btn-close {
+
+  background: #25222F;
+
+}
+
+.rs-picker-toggle-textbox {
+
+  background-color: #25222F;
+
+}
