@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8ba4c622.css",
+    "main.js": "/static/js/main.c9f88866.js",
+    "static/js/453.3bf57620.chunk.js": "/static/js/453.3bf57620.chunk.js",
+    "static/media/quovadis.png": "/static/media/quovadis.472da42ce9e844dbe5d6.png",
+    "index.html": "/index.html",
+    "main.8ba4c622.css.map": "/static/css/main.8ba4c622.css.map",
+    "main.c9f88866.js.map": "/static/js/main.c9f88866.js.map",
+    "453.3bf57620.chunk.js.map": "/static/js/453.3bf57620.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ba4c622.css",
+    "static/js/main.c9f88866.js"
+  ]
+}
